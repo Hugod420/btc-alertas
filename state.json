@@ -1,0 +1,25 @@
+{
+ "sent": [
+  "4h|2026-11-09 20:00:00|1|E"
+ ],
+ "trades": [
+  {
+   "tf": "4h",
+   "time": "2026-11-09 20:00:00",
+   "side": 1,
+   "equity": 100.0,
+   "riesgo": true,
+   "events_sent": 0,
+   "status": "open",
+   "label": "09/11 19:00"
+  }
+ ],
+ "closed": [],
+ "equity": 100.0,
+ "news_sent": [
+  "dia|Core CPI m/m|2026-11-10 13:30:00+00:00",
+  "dia|CPI m/m|2026-11-10 13:30:00+00:00"
+ ],
+ "weeks_sent": [],
+ "last_run": "2026-11-10T03:12+00:00"
+}
