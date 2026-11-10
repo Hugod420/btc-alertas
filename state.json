@@ -2,24 +2,22 @@
  "sent": [
   "4h|2026-11-09 20:00:00|1|E"
  ],
- "trades": [
+ "trades": [],
+ "closed": [
   {
    "tf": "4h",
-   "time": "2026-11-09 20:00:00",
    "side": 1,
-   "equity": 100.0,
-   "riesgo": true,
-   "events_sent": 2,
-   "status": "open",
-   "label": "09/11 19:00"
+   "label": "09/11 19:00",
+   "pnl_pct": 0.005,
+   "closed_at": "2026-11-10 04:00:00",
+   "riesgo": true
   }
  ],
- "closed": [],
- "equity": 100.0,
+ "equity": 100.00500000000001,
  "news_sent": [
   "dia|Core CPI m/m|2026-11-10 13:30:00+00:00",
   "dia|CPI m/m|2026-11-10 13:30:00+00:00"
  ],
  "weeks_sent": [],
- "last_run": "2026-11-10T07:51+00:00"
+ "last_run": "2026-11-10T08:45+00:00"
 }
