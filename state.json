@@ -11,7 +11,7 @@
    "side": 1,
    "equity": 100.00500000000001,
    "riesgo": true,
-   "events_sent": 0,
+   "events_sent": 1,
    "status": "open",
    "label": "10/11 13:00"
   },
@@ -42,5 +42,5 @@
   "dia|CPI m/m|2026-11-10 13:30:00+00:00"
  ],
  "weeks_sent": [],
- "last_run": "2026-11-10T18:57+00:00"
+ "last_run": "2026-11-10T19:42+00:00"
 }
