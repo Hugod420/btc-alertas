@@ -76,10 +76,12 @@
   "dia|Fed Chairman Warsh Speaks|2026-11-16 17:00:00+00:00",
   "hora|Fed Chairman Warsh Speaks|2026-11-16 17:00:00+00:00",
   "dia|Core Retail Sales m/m|2026-11-17 13:30:00+00:00",
-  "dia|Retail Sales m/m|2026-11-17 13:30:00+00:00"
+  "dia|Retail Sales m/m|2026-11-17 13:30:00+00:00",
+  "hora|Core Retail Sales m/m|2026-11-17 13:30:00+00:00",
+  "hora|Retail Sales m/m|2026-11-17 13:30:00+00:00"
  ],
  "weeks_sent": [
   "2026-46"
  ],
- "last_run": "2026-11-17T11:38+00:00"
+ "last_run": "2026-11-17T12:33+00:00"
 }
