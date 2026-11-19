@@ -27,22 +27,12 @@
  ],
  "trades": [
   {
-   "tf": "15m",
-   "time": "2026-11-18 17:30:00",
-   "side": 1,
-   "equity": 100.06194790911509,
-   "riesgo": true,
-   "events_sent": 1,
-   "status": "open",
-   "label": "18/11 12:45"
-  },
-  {
    "tf": "1h",
    "time": "2026-11-18 17:00:00",
    "side": 1,
    "equity": 100.06194790911509,
    "riesgo": true,
-   "events_sent": 1,
+   "events_sent": 2,
    "status": "open",
    "label": "18/11 13:00"
   }
@@ -95,9 +85,17 @@
    "pnl_pct": 0.005,
    "closed_at": "2026-11-15 00:30:00",
    "riesgo": true
+  },
+  {
+   "tf": "15m",
+   "side": 1,
+   "label": "18/11 12:45",
+   "pnl_pct": -0.152,
+   "closed_at": "2026-11-18 23:45:00",
+   "riesgo": true
   }
  ],
- "equity": 100.06194790911509,
+ "equity": 99.90937425407547,
  "news_sent": [
   "dia|Core CPI m/m|2026-11-10 13:30:00+00:00",
   "dia|CPI m/m|2026-11-10 13:30:00+00:00",
@@ -115,5 +113,5 @@
  "weeks_sent": [
   "2026-46"
  ],
- "last_run": "2026-11-18T23:29+00:00"
+ "last_run": "2026-11-19T00:19+00:00"
 }
